@@ -19,7 +19,7 @@ Soft Skills: Tenho muita facilidade de trabalho em equipe, Minha comunicação �
 
 📧 Email: newguiofc.09@gmail.com 
 🔗 LinkedIn:[https://github.com/1tsmegui]
-Interesse
+
 Estou interessado em oportunidades que me permitam crescer e desenvolver minhas habilidades em desenvolvimento de software, análise de sistemas e outras áreas relacionadas.
 Estou aberto a conversas sobre estágio, posições júnior ou oportunidades de aprendizado.
 
