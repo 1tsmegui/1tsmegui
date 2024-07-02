@@ -1,6 +1,6 @@
 Bem-vindo ao meu perfil no GitHub!
 
-Olá! Meu nome é Guilherme, e sou um apaixonado por tecnologia. Escolhi essa área baseado numa qualidade que tenho de resolver problemas.  
+Olá! Meu nome é Guilherme, e sou um apaixonado por tecnologia. Vim para esta área baseado na minha qualidade de resolver problemas.  
 Atualmente estou buscando oportunidades de estágio ou posição júnior para iniciar minha carreira profissional nesta área que tenho muito interesse.
 
 Experiência e Projetos
