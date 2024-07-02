@@ -1,25 +1,36 @@
-Bem-vindo ao meu perfil no GitHub!
+Bem-vindo ao meu perfil no GitHub!  
 
-Olá! Meu nome é Guilherme, e sou um apaixonado por tecnologia. Vim para esta área baseado na minha qualidade de resolver problemas.  
-Atualmente estou buscando oportunidades de estágio ou posição júnior para iniciar minha carreira profissional nesta área que tenho muito interesse.
 
-💻 Tenho experiência prática em python,html,css e javascript
-🚀 Desenvolvi projetos pessoais, incluindo calculadora, calculo de imc entre outros que estou desenvolvendo e que breve irei postar
-🎓 Estou cursando Análise e desenvolvimente de sistemas pelo SENAC DF. Onde tenho aprendido sobre linguagens de programção. 
+Olá! Eu me chamo Guilherme e sou apaixonado por tecnologia, especialmente pela capacidade de resolver problemas através dela. Estou buscando oportunidades de estágio ou posição júnior para iniciar minha carreira profissional nesta área que tanto me interessa.
 
-Objetivos ------- 
-Meu objetivo é aplicar meu conhecimento e paixão por tecnologia em um ambiente profissional e desafiador.
-Estou pronto para contribuir com uma equipe dinâmica e aprender com profissionais experientes.
+Experiência e Projetos
+
+
+💻 Tenho experiência prática em Python, HTML, CSS e JavaScript.
+
+🚀 Tenho desenvolvido projetos pessoais, como calculadoras e cálculo de IMC, e estou trabalhando em novos projetos que em breve estarão disponíveis aqui.
+
+🎓 Atualmente curso Análise e Desenvolvimento de Sistemas pelo SENAC DF, onde tenho aprendido sobre diversas linguagens de programação.
+
+Objetivos
+
+Meu objetivo é aplicar meu conhecimento e minha paixão por tecnologia em um ambiente profissional desafiador. Estou ansioso para contribuir com uma equipe dinâmica e aprender com profissionais experientes.
 
 Habilidades
-Linguagens: Python,html,css,java 
-Tecnologias: tenho aprendido sobre banco de dados como: Mongodb, MySQL, PostgreSQL, MariaDB, Microsoft SQL Server e Oracle
-Soft Skills: Tenho muita facilidade de trabalho em equipe, Minha comunicação é boa e minha capacidade de resolver problemas é excepcional 
+Linguagens: Python, HTML, CSS, Java.
 
-📧 Email: newguiofc.09@gmail.com 
-🔗 LinkedIn:[https://github.com/1tsmegui]
+Tecnologias: Estou aprendendo sobre bancos de dados como MongoDB, MySQL, PostgreSQL, MariaDB, Microsoft SQL Server e Oracle.
 
-Estou interessado em oportunidades que me permitam crescer e desenvolver minhas habilidades em desenvolvimento de software, análise de sistemas e outras áreas relacionadas.
-Estou aberto a conversas sobre estágio, posições júnior ou oportunidades de aprendizado.
+Soft Skills: Tenho facilidade no trabalho em equipe, boa comunicação e uma excepcional capacidade de resolver problemas.
 
-Fique à vontade para explorar meus repositórios e projetos aqui no GitHub. Estou animado para conectar com profissionais da área e explorar novas oportunidades!
+Contato
+📧 Email: newguiofc.09@gmail.com
+🔗 LinkedIn: https://github.com/1tsmegui
+
+
+Interesses
+
+Estou interessado em oportunidades que me permitam crescer e desenvolver minhas habilidades em desenvolvimento de software, análise de sistemas e outras áreas relacionadas. Estou aberto para conversar sobre estágios, posições júnior ou oportunidades de aprendizado.
+
+Sinta-se à vontade para explorar meus repositórios e projetos aqui no GitHub. Estou animado para conectar com profissionais da área e explorar novas oportunidades!
+
