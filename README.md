@@ -3,7 +3,6 @@ Bem-vindo ao meu perfil no GitHub!
 Olá! Meu nome é Guilherme, e sou um apaixonado por tecnologia. Vim para esta área baseado na minha qualidade de resolver problemas.  
 Atualmente estou buscando oportunidades de estágio ou posição júnior para iniciar minha carreira profissional nesta área que tenho muito interesse.
 
-Experiência e Projetos
 💻 Tenho experiência prática em python,html,css e javascript
 🚀 Desenvolvi projetos pessoais, incluindo calculadora, calculo de imc entre outros que estou desenvolvendo e que breve irei postar
 🎓 Estou cursando Análise e desenvolvimente de sistemas pelo SENAC DF. Onde tenho aprendido sobre linguagens de programção. 
