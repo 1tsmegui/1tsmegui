@@ -8,9 +8,10 @@ Experiência e Projetos
 
 💻 Tenho experiência prática em Python, HTML, CSS e JavaScript.
 
-🚀 Tenho desenvolvido projetos pessoais, como calculadoras e cálculo de IMC, e estou trabalhando em novos projetos que em breve estarão disponíveis aqui.
+🚀 Tenho desenvolvido projetos pessoais, como automatização de tarefas, calculadora, cálculo de IMC, e estou trabalhando em novos projetos que em breve estarão disponíveis aqui.
 
-🎓 Atualmente curso Análise e Desenvolvimento de Sistemas pelo SENAC DF, onde tenho aprendido sobre diversas linguagens de programação.
+🎓 Atualmente curso Análise e Desenvolvimento de Sistemas pelo SENAC DF, onde tenho aprendido sobre diversas linguagens de programação. Porém também faço cursos por fora 
+da minha faculdade. Atualmente estou finalizando um de lógica de programção do cursoemvideo e estudo inglês todos os dias. 
 
 Objetivos
 
@@ -30,7 +31,7 @@ Contato
 
 Interesses
 
-Estou interessado em oportunidades que me permitam crescer e desenvolver minhas habilidades em desenvolvimento de software, análise de sistemas e outras áreas relacionadas. Estou aberto para conversar sobre estágios, posições júnior ou oportunidades de aprendizado.
+Estou interessado em oportunidades que me permitam crescer e desenvolver minhas habilidades em desenvolvimento de software, análise de sistemas e outras áreas relacionadas. Estou aberto para vagas de  estágios, posições júnior ou oportunidades de aprendizado. Meu foco é me especializar em back-end 
 
-Sinta-se à vontade para explorar meus repositórios e projetos aqui no GitHub. Estou animado para conectar com profissionais da área e explorar novas oportunidades!
+Sinta-se à vontade para explorar meus repositórios e projetos aqui no GitHub. Estou animado para me conectar com profissionais da área e explorar novas oportunidades!
 
