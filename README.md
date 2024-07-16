@@ -11,7 +11,7 @@
 <h3>🚀 Tenho desenvolvido projetos pessoais, como automatização de tarefas, calculadora, cálculo de IMC, e estou trabalhando em novos projetos que em breve estarão disponíveis aqui.</h3>
 
 <h3>🎓 Atualmente curso Análise e Desenvolvimento de Sistemas pelo SENAC DF, onde tenho aprendido sobre diversas linguagens de programação. Porém também faço cursos por fora 
-da minha faculdade, estou finalizando um de lógica de programção do curso em video e estudo inglês todos os dias. </h3>
+da minha faculdade. Finalizei recentemente um curso  de lógica de programção do curso em video  e estudo inglês todos os dias. </h3>
 
 <h2>Objetivos</h2>
 
